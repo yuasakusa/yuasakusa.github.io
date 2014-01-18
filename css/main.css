@@ -150,6 +150,10 @@ h2.post-title {
   font-size: 180%;
 }
 
+.post h3 {
+  margin-top: 1em;
+}
+
 /* standard */
 .post pre {
   border: 1px solid #888;
