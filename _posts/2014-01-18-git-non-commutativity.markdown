@@ -2,7 +2,7 @@
 layout: post
 title:  "A pitfall of reordering commits by git rebase -i"
 date:   2014-01-18 07:00:00
-categories: dart
+categories: git
 ---
 
 ### Summary
