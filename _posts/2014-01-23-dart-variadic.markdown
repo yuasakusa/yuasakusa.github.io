@@ -15,7 +15,7 @@ without modifying the language or the compiler!
 {% highlight dart %}
 typedef dynamic ApplyType(List positionalArguments);
 
-class Variadic extends Function {
+class Variadic implements Function {
   final ApplyType _apply;
 
   Variadic(this._apply) {}
